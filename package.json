@@ -1,0 +1,30 @@
+{
+  "name": "us-form-rules",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "form rules for unisigns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier-eslint \"/**/*.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FritzKoerner/us-form-rules.git"
+  },
+  "keywords": [
+    "forms",
+    "rules"
+  ],
+  "author": "Fritz Körner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FritzKoerner/us-form-rules/issues"
+  },
+  "homepage": "https://github.com/FritzKoerner/us-form-rules#readme",
+  "devDependencies": {
+    "eslint": "^8.48.0",
+    "eslint-config-prettier": "^9.0.0",
+    "prettier": "^3.0.3"
+  }
+}
